@@ -1,5 +1,5 @@
 ### Hi👋, I'm, Ankit Ahirrao 👦 💻.
-## Programming is Thinking, Not Typing.
+#### Programming is Thinking, Not Typing.
 
 - Ankit is a vivacious and an ambitious student with majors in Information Technology. He is well versed in programming languages- C, C++, Python, OOP methodologies, and SQL and has a strong command over core computer science subjects- Data Structure, Algorithms, and Database Management System.
 
