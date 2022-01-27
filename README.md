@@ -8,7 +8,7 @@ Ankit is a vivacious and an ambitious student with majors in Information Technol
 Being an enthusiastic competitive programmer, he actively participates in various coding competition. He loves to work with high-scale products and is a passionate team player, a quick learner with creative problem-solving skills, coding abilities, and interpersonal skills. As a software developer, he is a frequent participant at hackathons, coding workshops, and meetups.
 
 
-- 🔭 I’m currently working on MERN Stack.
+- 🔭 I’m currently working on Flutter.
 - 🌱 I’m currently learning Full Stack Developement.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: ahirraoankit5@gmail.com.
